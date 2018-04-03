@@ -1,6 +1,6 @@
 console.log('app.js running');
 var appRoot = document.getElementById('app');
-
+//
 var template;
 
 var app ={
